@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=자라나는%20코린이&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=성장하는%20개발자,%20하지은입니다.&fontSize=50)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hodooha)](https://github.com/hodooha/github-readme-stats)
 
