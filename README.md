@@ -20,29 +20,3 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게**<br>
-*기울임*<br>
-~~취소선~~
-* 1번
-* 2번
-* 3번
-* 4번
-- 5번<br>
-[네이버](https://naver.com)
-
-```java
-System.out.println("hi")
-```
-
-😡
-😂
-😂
